@@ -1,3 +1,3 @@
 # I am poor
 
-A Simple Flutter Mobile App.
+A Simple Flutter Mobile App
